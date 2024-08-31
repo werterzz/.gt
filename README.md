@@ -1,0 +1,2 @@
+# .gt
+instant git manual
